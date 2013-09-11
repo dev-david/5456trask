@@ -79,7 +79,7 @@
 							<img class="headerlogo" src="images/teamfastagents.jpg" alt="" />
 
 							<header>
-								<h2 class="alt">Thinking about selling <span class="blackblock"> 5456 Trask St? </span> Let us help! This is <span class="blackblock"> YOUR </span> personal team of professionals. Whether you have questions about purchasing or selling, you can rest assured when you have your own Team of Fast Agents backing you.</h2>
+								<h2 class="alt">Thinking about selling <span class="blackblock"> 5456 Trask St? </span> Let us help! This is YOUR personal team of professionals. Whether you have questions about purchasing or selling, you can rest assured when you have your own Team of Fast Agents backing you.</h2>
 							</header>
 							
 						<!-- 	<p>Ligula scelerisque justo sem accumsan diam quis. Vitae natoque dictum 
@@ -102,7 +102,7 @@
 								<h2 class="blackblock">Listing Services</h2>
 							</header>
 							
-							<p>When you list your home with Team Fast Agents, you receive a full blown enterprise level marketing plan.</p>
+							<p>When you list your home with Team Fast Agents, you receive a premium marketing plan with a personal touch.</p>
 						
 							<div class="row">
 								<div class="4u">
