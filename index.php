@@ -148,7 +148,9 @@
 										</header>
 									</article>
 								</div>
-							</div>
+							</div><br><br>
+									<a href="images/zillow.jpg" class="image full fancybox"><img style="width: 100%;" src="images/zillow.jpg" /></a>
+
 
 						</div>
 					</section>
