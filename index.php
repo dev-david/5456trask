@@ -150,6 +150,8 @@
 								</div>
 							</div><br><br>
 									<a href="images/zillow.jpg" class="image full fancybox"><img style="width: 100%;" src="images/zillow.jpg" /></a>
+									<br><br>
+									<a href="images/youtube.jpg" class="image full fancybox"><img style="width: 100%;" src="images/youtube.jpg" /></a>
 
 
 						</div>
