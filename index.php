@@ -243,7 +243,9 @@
 							<img class="circled" src="images/KennyLogo.jpg" alt="" />
 							<header>
 								<h3>Kenny Truong</h3>
-								<span class="small">Agent</span>
+								<span class="small">Agent</span><br>
+								<span class="small">510.545.6932</span><br>
+								<a href="mailto:kenny@fastagent.me"><span class="small">kenny@fastagent.me</span></a>
 							</header>
 							<p>
 								Kenny was ranked the #3 agent in Alameda County for closed homes sold. He is a branded #fastagent who has inspired many in Alameda counties Real Estate industry with his cutting edge visions.
@@ -253,7 +255,9 @@
 							<img class="circled" src="images/klowelogo.jpg" alt="" />
 							<header>
 								<h3>Kevin Lowe</h3>
-								<span class="small">Agent</span>
+								<span class="small">Agent</span><br>
+								<span class="small">510.851.5454</span><br>
+								<a href="mailto:kevin.mjre@gmail.com"><span class="small">kevin.mjre@gmail.com</span></a>
 							</header>
 							<p>
 								Kevin is a dedicated professional who will go above and beyond his due dilegence as an agent to insure his client's buying or selling experience is as streamlined as possible.
@@ -263,7 +267,9 @@
 							<img class="circled" src="images/BlankLogo.jpg" alt="" />
 							<header>
 								<h3>David Nguyen</h3>
-								<span class="small">Marketing | Web</span>
+								<span class="small">Marketing | Web</span><br>
+								<span class="small">510.922.0161</span><br>
+								<a href="mailto:david.mjre@gmail.com"><span class="small">david.mjre@gmail.com</span></a>
 							</header>
 							<p>
 								David is in charge of Marketing and Web development for Team Fast Agents. He keeps up with the latest trends and implements new designs to insure the team is always cutting edge.
