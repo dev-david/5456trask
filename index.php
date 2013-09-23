@@ -235,7 +235,7 @@
 						<a href="images/mjre.jpg"><img src="images/mjre.jpg" alt="" class="image featured"/></a>
 						<header>
 							<h2>About Team Fast Agents</h2>
-							<span class="byline">Award winning team members with over XXX million in properties sold.</span>
+							<span class="byline">Award winning team members with millions in properties sold.</span>
 						</header>
 						<div class="row">
 						
