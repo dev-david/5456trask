@@ -49,7 +49,8 @@
 								<li><a href="#top" id="top-link" class="skel-panels-ignoreHref"><span class="icon icon-home">Intro</span></a></li>
 								<li><a href="#portfolio" id="portfolio-link" class="skel-panels-ignoreHref"><span class="icon icon-th">Listing Services</span></a></li>
 								<li><a href="#about" id="about-link" class="skel-panels-ignoreHref"><span class="icon icon-dollar">Market Analysis</span></a></li>
-								<li><a href="#contact" id="contact-link" class="skel-panels-ignoreHref"><span class="icon icon-envelope">Contact</span></a></li>
+								<li><a href="#contact" id="contact-link" class="skel-panels-ignoreHref"><span class="icon icon-group">About Us</span></a></li>
+								<li><a href="#contact" id="contact-link" class="skel-panels-ignoreHref"><span class="icon icon-phone">Call - 510.545.6932</span></a></li>
 							</ul>
 						</nav>
 						
@@ -59,9 +60,9 @@
 
 					<!-- Social Icons -->
 						<ul class="icons">
-							<li><a href="#" class="icon icon-twitter"><span>Twitter</span></a></li>
-							<li><a href="#" class="icon icon-facebook"><span>Facebook</span></a></li>
-							<li><a href="#" class="icon icon-youtube"><span>Youtube</span></a></li>
+							<li><a href="https://twitter.com/kenny_truong" class="icon icon-twitter"><span>Twitter</span></a></li>
+							<li><a href="https://www.facebook.com/FastAgent?fref=ts" class="icon icon-facebook"><span>Facebook</span></a></li>
+							<li><a href="https://www.youtube.com/channel/UCF9s0fFFZu9W0v6Z3VwyRIA" class="icon icon-youtube"><span>Youtube</span></a></li>
 							<li><a href="mailto:info@teamfastagents.com" class="icon icon-envelope"><span>Email</span></a></li>
 						</ul>
 				
@@ -97,7 +98,6 @@
 				<!-- Portfolio -->
 					<section id="portfolio" class="two">
 						<div class="container">
-					
 							<header>
 								<h2 class="blackblock">Listing Services</h2>
 							</header>
@@ -109,7 +109,7 @@
 									<article class="item">
 										<a href="images/trask.jpg" class="image full fancybox"><img src="images/trask.jpg" alt="" /></a>
 										<header>
-											<h3><strong>Custom internet domain</strong></h3>
+											<h3><strong>Custom Internet Domain</strong></h3>
 										</header>
 									</article>
 									<article class="item">
@@ -118,12 +118,18 @@
 											<h3>The latest presentation solutions</h3>
 										</header>
 									</article>
+									<article class="item">
+										<a href="images/smartryder.png" class="image full fancybox"><img src="images/smartryder.png" alt="" /></a>
+										<header>
+											<h3><strong>Innovative Signage</strong></h3>
+										</header>
+									</article>
 								</div>
 								<div class="4u">
 									<article class="item">
 										<a href="images/trask2.png" class="image full fancybox"><img src="images/cam2.jpg" alt="" /></a>
 										<header>
-											<h3>Professional photography</h3>
+											<h3>Professional Photography</h3>
 										</header>
 									</article>
 									<article class="item">
@@ -131,6 +137,12 @@
 										<header>
 											<h3>Print ads in multiple leading Vietnamese and Chinese language magazines</h3>
 
+										</header>
+									</article>
+									<article class="item">
+										<a href="images/toyonflyer.jpg" class="image full fancybox"><img src="images/toyonflyer.jpg" alt="" /></a>
+										<header>
+											<h3><strong>Modern Designs</strong></h3>
 										</header>
 									</article>
 								</div>
@@ -147,13 +159,18 @@
 											<h3>Video tours</h3>
 										</header>
 									</article>
+									<article class="item">
+										<a href="images/edgecroftflyer.png" class="image full fancybox"><img src="images/edgecroftflyer.png" alt="" /></a>
+										<header>
+											<h3><strong>Premium Layouts</strong></h3>
+										</header>
+									</article>
 								</div>
-							</div><br><br>
-									<a href="images/zillow.jpg" class="image full fancybox"><img style="width: 100%;" src="images/zillow.jpg" /></a>
-									<br><br>
-									<a href="images/youtube.jpg" class="image full fancybox"><img style="width: 100%;" src="images/youtube.jpg" /></a>
-
-
+							</div>
+							<br>
+							<a href="images/zillow.jpg" class="image full fancybox"><img style="width: 100%;" src="images/zillow.jpg" /></a>
+							<br>
+							<a href="images/youtube.jpg" class="image full fancybox"><img style="width: 100%;" src="images/youtube.jpg" /></a>
 						</div>
 					</section>
 
@@ -163,7 +180,7 @@
 
 							<header>
 								<h2 style="color: #fff;">Comparative Market Analysis</h2>
-								<h3 style="color: #ecf0f1;">Properties sold within area</h3>
+								<h3 style="color: #ecf0f1;">Properties sold within area of 5456 Trask St</h3>
 							</header>
 							<div class="row">
 								<div class="4u">
@@ -215,11 +232,46 @@
 					<section id="contact" class="four">
 						<div class="container">
 
+						<a href="images/mjre.jpg"><img src="images/mjre.jpg" alt="" class="image featured"/></a>
+						<header>
+							<h2>About Team Fast Agents</h2>
+							<span class="byline">Award winning team members with over XXX million in properties sold.</span>
+						</header>
+						<div class="row">
+						
+						<article class="4u">
+							<img class="circled" src="images/kennylogo.jpg" alt="" />
 							<header>
-								<h2>Contact</h2>
+								<h3>Kenny Truong</h3>
+								<span class="small">Agent</span>
 							</header>
+							<p>
+								Kenny was ranked the #3 agent in Alameda County for closed homes sold. He is a branded #fastagent who has inspired many in Alameda counties Real Estate industry with his cutting edge visions.
+							</p>
+						</article>
+						<article class="4u ">
+							<img class="circled" src="images/klowelogo.jpg" alt="" />
+							<header>
+								<h3>Kevin Lowe</h3>
+								<span class="small">Agent</span>
+							</header>
+							<p>
+								Kevin is a dedicated professional who will go above and beyond his due dilegence as an agent to insure his client's buying or selling experience is as streamlined as possible.
+							</p>
+						</article>
+						<article class="4u ">
+							<img class="circled" src="images/blanklogo.jpg" alt="" />
+							<header>
+								<h3>David Nguyen</h3>
+								<span class="small">Marketing | Web</span>
+							</header>
+							<p>
+								David is in charge of Marketing and Web development for Team Fast Agents. He keeps up with the latest trends and implements new designs to insure the team is always cutting edge.
+							</p>
+						</article>
+					</div>
 
-							<p>Give us a call! <span class="blackblock">510.545.6932</span></p>
+							
 							
 							<!-- <form method="post" action="#">
 								<div class="row half">
