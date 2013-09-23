@@ -240,7 +240,7 @@
 						<div class="row">
 						
 						<article class="4u">
-							<img class="circled" src="images/kennylogo.jpg" alt="" />
+							<img class="circled" src="images/KennyLogo.jpg" alt="" />
 							<header>
 								<h3>Kenny Truong</h3>
 								<span class="small">Agent</span>
@@ -260,7 +260,7 @@
 							</p>
 						</article>
 						<article class="4u ">
-							<img class="circled" src="images/blanklogo.jpg" alt="" />
+							<img class="circled" src="images/BlankLogo.jpg" alt="" />
 							<header>
 								<h3>David Nguyen</h3>
 								<span class="small">Marketing | Web</span>
