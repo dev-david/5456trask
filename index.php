@@ -148,7 +148,7 @@
 								</div>
 								<div class="4u">
 									<article class="item">
-										<a href="" class="image full"><img src="images/pic06.jpg" alt="" /></a>
+										<a href="#" class="image full"><img src="images/pic06.jpg" alt="" /></a>
 										<header>
 											<h3>Full market exposure</h3>
 										</header>
