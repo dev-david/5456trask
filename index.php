@@ -308,7 +308,7 @@
 					<div class="copyright">
 						<p>&copy; 2013 Team Fast Agents. All rights reserved.</p>
 						<ul class="menu">
-							<li>by <a href="http://devdavid.com">DevDavid</a></li>
+							<li>by <a href="http://devdavid.com">DevDavid.com</a></li>
 						</ul>
 					</div>
 				
